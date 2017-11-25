@@ -17,5 +17,5 @@ public class Cafezeiro {
     private BigDecimal saldo;
     private TipoCafezeiro tpCafezeiro;
     private String senha;
-    
+
 }
