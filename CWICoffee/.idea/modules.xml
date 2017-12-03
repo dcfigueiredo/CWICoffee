@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CWICoffee.iml" filepath="$PROJECT_DIR$/CWICoffee.iml" />
+      <module fileurl="file://C:\Users\Sul Games\Documents\CWICOFFEE\CWICoffee\CWICoffee\CWICoffee.iml" filepath="C:\Users\Sul Games\Documents\CWICOFFEE\CWICoffee\CWICoffee\CWICoffee.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Sul Games\Documents\CWICOFFEE\CWICoffee\CWICoffee\app\app.iml" filepath="C:\Users\Sul Games\Documents\CWICOFFEE\CWICoffee\CWICoffee\app\app.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "504798536158",
+    "firebase_url": "https://cwicoff-184a8.firebaseio.com",
+    "project_id": "cwicoff-184a8",
+    "storage_bucket": "cwicoff-184a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504798536158:android:67e178e2eb73930f",
+        "android_client_info": {
+          "package_name": "com.example.cwicoffee.cwicoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504798536158-fluj76kp4ap8f2akajhi4et31keu08nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ8N9Nqo_ottOAY8JsJrNQTTLu26mGFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
